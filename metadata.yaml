@@ -1,0 +1,5 @@
+homepage: "https://analytics.nexus"
+documentation: "https://github.com/Alliance-Innovations/gtm-nexus-tracker-template"
+versions:
+  - sha: cd71f61eb7f40d7db2e52ee528fa68c27d2baf7e
+    changeNotes: Initial release.
